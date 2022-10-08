@@ -1,4 +1,4 @@
-# Automatic-and-Manual-Plant-Watering-System-Using-C-and-JAVA
+# Automatic-and-Manual-Green-House-Monitoring-System-Using-C-and-JAVA
 ## **INTRODUCTION:** 
 
 The optimum growth of the plant can not only be achieved by maintaining the soil moisture level. Plants do require maintained temperature, humidity, and light intensity for ideal growth. To achieve the ideal growth of the plant I have added all these features by making real time operating system using Arduino and various sensors. I used C++ and JAVA coding language to make this automated system work.
